@@ -1,0 +1,14 @@
+# fisiere de build
+bin/
+obj/
+
+# config IDE (Code::Blocks, Dev-C++)
+*.cbp
+*.depend
+*.layout
+
+
+# altele
+*.exe
+*.o
+*.out
