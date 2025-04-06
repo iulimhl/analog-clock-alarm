@@ -8,7 +8,7 @@ A C++ graphical application implementing an analog clock with interactive alarm 
 - Custom UI with animated 3D buttons and keyboard/mouse navigation
 
 ## Demo
-![Video](https://youtu.be/wZjD_REcup4)
+![Video](demo.mp4)
 
 ## Technologies
 - C++
