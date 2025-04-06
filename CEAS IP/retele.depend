@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1743287785 source:c:\users\iulia\desktop\info\retele\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<vector>
+	<sstream>
+	<windows.h>
+
+1743377224 source:c:\users\iulia\desktop\ceas ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<vector>
+	<sstream>
+	<windows.h>
+
